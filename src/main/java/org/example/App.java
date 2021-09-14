@@ -1,7 +1,7 @@
 package org.example;
 
 /*
- *  UCF COP3330 Fall 2021 Assignment 1 Solution
+ *  UCF COP3330 Fall 2021 Assignment 7 Solution
  *  Copyright 2021 Daniel Ragusa
  */
 
@@ -34,7 +34,7 @@ public class App
         System.out.print("The area is\n" + (area)+ " square feet\n");
         System.out.format("%.3f", meter_area);
         System.out.print(" square meters");
-        
+
 
     }
 }
